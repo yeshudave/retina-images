@@ -6,7 +6,6 @@ inherit:
   - git-2
   - html
   - css-order-modules-grid-type-main
-  - google-fonts
   - screenshots-all
 
 html:
